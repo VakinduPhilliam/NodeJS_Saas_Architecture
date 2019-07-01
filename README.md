@@ -1,7 +1,7 @@
 # NodeJS_Saas_Architecture
 Node.js Software As A Service (SaaS). 
 
-This is an example of a Software As A Service application - built using Node.js, Express.js, MySQL and MongoDB implementing RESTful API.  
+This is an example of a Software As A Service application - built using Node.js, Express.js, MySQL, MongoDB and implemented in RESTful API.  
 
 The Application is served using Grunt task runner.  
 
