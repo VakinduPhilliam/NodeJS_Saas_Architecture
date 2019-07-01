@@ -5,10 +5,12 @@ This is a sample of a Software as a Service application on Node.js with Express.
 
 The Application is served using Grunt task runner.  
 
-In order to demonstrate the implementation and usage of this scaffolding for SaaS architectures, make sure; > Build tasks for client assets has been deactivated in Grunt tasks.  
+In order to demonstrate the implementation and usage of this scaffolding for SaaS architectures, make sure; 
 
-> Then install NPM global dependencies: ``npm install -g sequelize sequelize-cli mysql``. 
+> Build tasks for client assets has been deactivated in Grunt tasks.  
 
-> Run server in development mode: ``grunt serve``.  
+> Then install NPM global dependencies: 'npm install -g sequelize sequelize-cli mysql'. 
+
+> Run server in development mode: 'grunt serve'. 
 
 Compiled and presented by Vakindu Philliam.
